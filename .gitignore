@@ -1,0 +1,24 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build folders
+**/bin/
+**/obj/
+
+# React
+**/node_modules/
+
+# Uploaded PDFs
+RAGChatbot/Storage/Uploads/
+
+# App settings
+**/appsettings.Development.json
+
+# React env
+**/.env
+**/.env.local
+
+# Logs
+*.log
